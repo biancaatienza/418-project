@@ -1,8 +1,4 @@
-﻿table with row headers in column A and column headers in rows 3 through 5 (leading dots indicate sub-parts),,,,,,,,
-"Estimates of Resident Population Change and Rankings for Counties in Illinois: July 1, 2018 to July 1, 2019",,,,,,,,
-.Geographic Area,Population Estimate,,"Change, 2018 to 2019",,Rankings,,,
-,,,,,Population Estimate,,"Change, 2018 to 2019",
-,"July 1, 2018","July 1, 2019",Number,Percent,"July 1, 2018","July 1, 2019",Number,Percent
+﻿County,"July 1, 2018","July 1, 2019",Number,Percent,"July 1, 2018","July 1, 2019",Number,Percent
 Illinois,"12,723,071","12,671,821","-51,250",-0.4,(X),(X),(X),(X)
 ".Adams County, Illinois","65,623","65,435",-188,-0.3,23,23,58,29
 ".Alexander County, Illinois","6,041","5,761",-280,-4.6,94,94,71,102
